@@ -1,2 +1,0 @@
-username = CasaLola
-password = yaso<3maria
